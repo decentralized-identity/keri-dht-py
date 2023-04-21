@@ -1,6 +1,10 @@
+# The KERI Working Group is no longer active under DIF. Ongoing KERI work has moved to the [Web of Trust GitHub repository](https://github.com/WebOfTrust/keri).
+
+
+
 [![Docker Image](https://github.com/rosenbrockc/keri-dht-py/actions/workflows/docker-image.yml/badge.svg)](https://github.com/rosenbrockc/keri-dht-py/actions/workflows/docker-image.yml)
 
-# KERI Discovery using a DHT in Python
+# KERI Discovery using a DHT in Python (archived at DIF)
 ## keri-dht-py
 
 Kademlia based DHT mechanism for KERI Discovery written in Python but leveraging C libraries for Kademlia. For more details, please visit [KERI Resources](https://keri.one/keri-resources/), in
